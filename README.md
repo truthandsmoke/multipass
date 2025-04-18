@@ -27,7 +27,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-4. Visit http://localhost:5000 in your browser
+4. Visit http://localhost:5002/ in your browser
 
 ## Test Account
 
